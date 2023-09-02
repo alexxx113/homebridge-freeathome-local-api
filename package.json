@@ -1,13 +1,13 @@
 {
   "displayName": "free@home Local API",
   "name": "homebridge-freeathome-local-api",
-  "version": "1.7.0",
+  "version": "9.7.0",
   "preview": false,
   "description": "Control your free@home setup using the local API provided by your System Access Point",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pgerke/homebridge-freeathome-local-api.git"
+    "url": "git+https://github.com/alexxx113/homebridge-freeathome-local-api.git"
   },
   "author": {
     "email": "info@philipgerke.com",
@@ -19,7 +19,7 @@
     "url": "https://paypal.me/PhilipGerke"
   },
   "bugs": {
-    "url": "https://github.com/pgerke/homebridge-freeathome-local-api/issues"
+    "url": "https://github.com/alexxx113/homebridge-freeathome-local-api/issues"
   },
   "engines": {
     "node": ">=14.18.1",
